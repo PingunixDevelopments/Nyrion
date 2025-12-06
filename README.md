@@ -43,5 +43,6 @@ Long term support: https://github.com/Gayware64/Nyrion-Aeon
 - MacOS is not offically supported but it might work
 - Tkinter for Nyrion 1.3 and up.
 
-![048zkqHt_400x400](https://github.com/user-attachments/assets/bf8346a2-62a6-48d0-a977-057005010369)
+<img width="794" height="1123" alt="Nyrion" src="https://github.com/user-attachments/assets/c894d0e4-4348-4de4-823a-ef3bd42c3c90" />
+
 
