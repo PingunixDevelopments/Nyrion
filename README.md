@@ -33,7 +33,7 @@ Screenshot
 
 Linux and MacOS: https://github.com/PingunixDevelopments/Atlas-Experimental-Atlas-macOS
 
-Older Windows *2000 and older*: https://github.com/PingunixDevelopments/Atlas-for-legacy-Windows
+Older Windows (*2000 and older*): https://github.com/PingunixDevelopments/Atlas-for-legacy-Windows
 
 
 
