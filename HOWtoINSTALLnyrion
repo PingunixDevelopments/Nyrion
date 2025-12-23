@@ -1,10 +1,9 @@
-1: Download the latest Nyrion release of the releases page (https://github.com/Gayware64/Nyrion/releases/tag/v1.4)
-2: Download the .py file and save it somewhere.
-3: Download the latest Python release. (https://www.python.org/downloads/)
-4: Install the EXE file of python
-5: Install pip (https://packaging.python.org/en/latest/tutorials/installing-packages/)
-6: Install Tkinter if you got v1.3 or higher (pip install tk) (CMD)
-7: Double click the Nyrion PY file.
-8: Enjoy Nyrion.
+1: Download the latest Nyrion release of the releases page 
+2: Download the .zip file and save it somewhere
+3: Download .Net 4.0
+4: Install .Net 4.0
+5: Unzip Nyrion
+6: Go into the bin folder and double click the exe
+7: Enjoy Nyrion.
 
 If there are any bugs please DM me on twitter. https://x.com/NyrionOfficial
