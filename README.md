@@ -29,8 +29,10 @@ Screenshot
 - Windows XP or Higher
 - .Net 4.0
 
-**Using Linux, MacOS or an older Windows version?** *Look no further*
+**Using Linux, MacOS or an older Windows version?** *Look no further!*
+
 Linux and MacOS: https://github.com/PingunixDevelopments/Atlas-Experimental-Atlas-macOS
+
 Older Windows *2000 and older*: https://github.com/PingunixDevelopments/Atlas-for-legacy-Windows
 
 
