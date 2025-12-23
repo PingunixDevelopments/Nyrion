@@ -16,18 +16,24 @@ Screenshot
 ---
 **How to install?**
 
-
-- **The latest CLI version can be downloaded here:**
- Best of all CLI: https://github.com/Gayware64/Nyrion-LTS-Atlas
-Long term support: https://github.com/Gayware64/Nyrion-Aeon
+- Download the .zip file and save it somewhere
+- Download .Net 4.0
+- Install .Net 4.0
+- Unzip Nyrion
+- Go into the bin folder and double click the exe
+- Enjoy Nyrion.
 
 ---
 
  Minimum Requirements
-- Windows 7 or Higher
-- Linux (Any Distro)
-- MacOS is not offically supported but it might work
-- Tkinter for Nyrion 1.3 and up.
+- Windows XP or Higher
+- .Net 4.0
+
+**Using Linux, MacOS or an older Windows version?** *Look no further*
+Linux and MacOS: https://github.com/PingunixDevelopments/Atlas-Experimental-Atlas-macOS
+Older Windows *2000 and older*: https://github.com/PingunixDevelopments/Atlas-for-legacy-Windows
+
+
 
 <img width="794" height="1123" alt="Nyrion" src="https://github.com/user-attachments/assets/c894d0e4-4348-4de4-823a-ef3bd42c3c90" />
 
