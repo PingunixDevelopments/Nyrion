@@ -1,35 +1,21 @@
 # Nyrion
 What is **Nyrion**?
-Nyrion is a graphical and command-line shell environment built on LTAcore 0.6, a custom kernel system. It allows users to perform simple tasks like file exploration, Typing up documents, Personalization and file/folder management. With both GUI and terminal interfaces, Nyrion offers a minimal yet flexible experience for interacting with the system.
-
+Nyrion is a CLI build for people that want a simple way of doing things. Nyrion basically holds your hand into the CLI world. But, it also is made for power users.
 
 Features
-- GUI Sticky Notes and Notepad
-- Personalization
-- Retro GUI
-- An GUI and an Command Line
-- Calender
-- Calculator
-
+- Easy file managing
+- Disk management
+- Encoding
+- Network information
 ---
 
-- PLANNED
-- Being able to install apps
-- Web Browser 
-
----
 Screenshot
+<img width="1899" height="880" alt="Nyrion3 1" src="https://github.com/user-attachments/assets/cdf7fcfd-17f2-4090-bb10-60b72f5cd219" />
 
-<img width="960" height="540" alt="Capture" src="https://github.com/user-attachments/assets/4ab328c7-b3d8-42c0-8ac8-cab53f960729" />
 
 ---
 **How to install?**
 
-- For Nyrion 1.3 and up you will first need tkinter and Python
-
-- If you dont want to install Python or tkinter. Download version 1.2.2.
-
-- Recommended command line version = Nyrion **LTA Atlas** 
 
 - **The latest CLI version can be downloaded here:**
  Best of all CLI: https://github.com/Gayware64/Nyrion-LTS-Atlas
